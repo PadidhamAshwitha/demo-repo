@@ -1,5 +1,6 @@
 # This is a demo repository
 -
-- learning git and
+- learning git and github
+- 
 -        
   
